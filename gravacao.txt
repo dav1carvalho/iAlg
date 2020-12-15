@@ -1,0 +1,18 @@
+Identificador:1
+Nome:Pedro
+Ano de Nascimento:2544
+Estilo:Fefe
+Principal Obra: Fafa
+
+Identificador:3
+Nome:Fernando Idiomas
+Ano de Nascimento:2002
+Estilo:Drama
+Principal Obra: Leopica
+
+Identificador:9
+Nome:Drauzio
+Ano de Nascimento:1899
+Estilo:Vrau nelas
+Principal Obra: Mediciner negah
+
